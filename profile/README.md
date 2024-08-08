@@ -14,10 +14,8 @@ and provide and step by step guidance of how to get started.
 (TODO: link once that's live)
 
 
-These github repositories support that goal by focused on providing, data, tools,
-and as such is the more technical part, and the starting point for people
-ready to tangle with some code, 
-and with some intermediate topics in the [example notebooks](https://github.com/WetSuiteLeiden/example-notebooks).
-
-There is also some code that supports those notebooks - with [some API documentation here](https://wetsuite.knobs-dials.com/apidocs/) - yet this is only for the programmers already ready to dive in.
+These github repositories support that goal by focused on providing 
+intermediate [example notebooks](https://github.com/WetSuiteLeiden/example-notebooks) and tools to play with,
+and further down the technical road, data collection and the library code that supports these notebooks
+and data collection - with [some API documentation here](https://wetsuite.knobs-dials.com/apidocs/) - yet this is only for the programmers already ready to dive in.
 
